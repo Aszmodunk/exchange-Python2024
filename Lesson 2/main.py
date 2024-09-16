@@ -14,7 +14,7 @@ def datatypes():
     x = float(x)
     print(f"The x value is now {x} and type can be changed to {type(x)}\n ")
     #Don't forget for comments so you know what you are doing!
-    #This is a comment ;
+    #This is a comment ;D
     print("The int is still int, no matter if he is positive or negative. Same is for float!\n ")
     for a in range(-10,10,1):
         print(f"{a} has data type of {type(a)}\n")

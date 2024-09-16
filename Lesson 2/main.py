@@ -1,4 +1,8 @@
 import sys
+#So far you can ignore the def stuff
+#The myData
+#Just copy this whole program, and read from the console.
+#the most important what you should take from this segment: What is int, what is float, what is bool, what is string.
 
 def versioncheck():
     print(f"{sys.version} \n \n") #To ensure we use python version 3.0+

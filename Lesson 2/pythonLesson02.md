@@ -1,6 +1,5 @@
 ### __Python lesson 2__
-- Student name: __Jiří David__
-- Student number: __X1131401__
+
 
 
 ```python

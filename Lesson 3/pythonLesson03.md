@@ -1,6 +1,4 @@
 ### __Python lesson 3__
-- Student name: __Jiří David__
-- Student number: __X1131401__
 
 # __Today's topoc: String operations__
 

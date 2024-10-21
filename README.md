@@ -2,4 +2,4 @@
 
 __This is just to share with my classmates, please ignore__
 
-_The HTML files can be downloaded in the top right side and opened as is._
+_21/10/2024 HTML was replaced with the markdown._
